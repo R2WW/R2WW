@@ -1,4 +1,4 @@
-discord: r2wxgamer.
+discord: r2w__
 
 <!---
 R2WW/R2WW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
